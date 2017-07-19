@@ -1,4 +1,4 @@
 # eCommerce
 
 username rabea
-bassword 123123
+password 123123
